@@ -1,2 +1,2 @@
 # onw_blog
-study and life..
+study and life...
